@@ -1,3 +1,5 @@
+#retrigger
+
 name: Deploy to production
 
 on:
